@@ -53,13 +53,13 @@ python scripts/generate_data.py
 ### Basic Training
 
 ```bash
-./lr data/sample.csv
+./lr data/synthetic.csv
 ```
 
 ### Visualization
 
 ```bash
-python scripts/visualize.py
+python scripts/plot_results.py
 ```
 
 ### Command Line Options
